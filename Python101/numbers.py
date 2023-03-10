@@ -38,6 +38,6 @@ name_length = int ("4")
 name_list = ["neut", "2754", "asd"]
 print (type(name_list))
 
-name1, name2, namee3 = name_listp
+name1, name2, namee3 = name_list
 print(name1)
 print(name2)
